@@ -1,4 +1,10 @@
-## Bem-vindo(a) ao meu perfil!!! 😁
+<h2 style="color: blue;">Sobre Mim!</h2>
+
+<ul>
+ <li>🎓 Graduando em Análise e Desenvolvimento de Sistemas</li>
+ <li>👨🏻‍💻 <b>Backend Developer</b></li>
+ <li>🎂 2006 - 18 Anos</li>
+</ul>
 
  <div>
    <a href="https://github.com/gabbz17">
@@ -14,8 +20,7 @@
   <img align="center" alt="docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
   <img align="center" alt="postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
   <img align="center" alt="mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>
-  <img align="center" alt="docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-          
+  <img align="center" alt="docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" /> 
 </div>
  
 <br>
