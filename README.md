@@ -6,12 +6,6 @@
  <li>🎂 2006 - 18 Anos</li>
 </ul>
 
- <div>
-   <a href="https://github.com/gabbz17">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabbz17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbz17&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
 ## Tecnologias utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
