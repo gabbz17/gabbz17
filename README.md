@@ -3,7 +3,7 @@
 <ul>
  <li>🎓 Graduando em Análise e Desenvolvimento de Sistemas</li>
  <li>👨🏻‍💻 <b>Backend Developer</b></li>
- <li>🎂 2006 - 18 Anos</li>
+ <li>🎂 2006 - 20 Anos</li>
 </ul>
 
 ## Tecnologias utilizadas
